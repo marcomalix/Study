@@ -5,14 +5,14 @@
 # edit the lines immediately following #TODO, set execute attribute and
 # move to a directory in your path. USAGE: run_odv [collection]
 
-# © 2018 Reiner Schlitzer,
+# Â© 2018 Reiner Schlitzer,
 #        Alfred Wegener Institute,
 #        Bremerhaven, Germany
 #        Reiner.Schlitzer@awi.de
 
 
 #TODO: set ODVHOME to the full path-name of the odv install-directory
-ODVHOME=/home/malik/Utilities/ODV
+ODVHOME=/home/malik/Utilities/ODV_5.6.5
 
 
 
